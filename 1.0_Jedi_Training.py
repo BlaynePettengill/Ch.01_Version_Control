@@ -1,5 +1,5 @@
 '''
-1.0 Jedi Training (17pts)  Name:________________
+1.0 Jedi Training (17pts)  Name:Blayne Pettengill
 
 
 1. Define Forking (1pt): 
@@ -7,16 +7,17 @@ forking is creating a copy of a public file onto your GitHub account
 2. Define Cloning (1pt): 
 cloning is copying a file from GitHub onto the computer
 3. Define Branching (1pt):
-branching is making a seprate copy of a branch making it so you can
-test stuff out with out messing with the orignal branch
+branching is making a separate copy of a branch making it so you can
+test stuff out without messing with the original branch
 4. Define Committing (1pt): 
 committing is making a hard save of your files that have been updated since your last commit
 5. Define Merging (1pt): 
-merging is combining
+merging is combining a branch into another branch
 6. Define Pushing (1pt):
-
+pushing is taking the copy on your computer and sending it to GitHub
 7. Define Pull Request (1pt):
-
+a pull request is asking the person in charge of the organization
+your in to take the code and add it to the main file
 
 8. TURTORIAL ART (10pts.)
 
